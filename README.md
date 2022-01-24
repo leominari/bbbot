@@ -1,5 +1,7 @@
 # Big Brother Bot
 
+Bot do discord para automação da transmissão do ppv.
+
 ## Installation
 
 Node v16.x
