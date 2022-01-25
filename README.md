@@ -1,17 +1,23 @@
 # Big Brother Bot
 
-Bot do discord para automação da transmissão do ppv.
+This is a discord bot for automatically change camera on the Big Brother Brasil payperview.
 
 ## Installation
 
 Node v16.x
 
-`Discord Bot` can be installed with [npm].
+`Discord Bot` can be installed with [yarn].
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ```bash
-$ node index.js
+$ yarn start
 ```
+
+to use developer mode, run:
+```bash
+$ yarn dev
+```
+
